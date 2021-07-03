@@ -1,0 +1,14 @@
+E:\Learning\WebAPIExample\advanced-rest-concepts-aspnetcore-hateoas-end\LoggerService\bin\Debug\netcoreapp3.0\LoggerService.deps.json
+E:\Learning\WebAPIExample\advanced-rest-concepts-aspnetcore-hateoas-end\LoggerService\bin\Debug\netcoreapp3.0\LoggerService.dll
+E:\Learning\WebAPIExample\advanced-rest-concepts-aspnetcore-hateoas-end\LoggerService\bin\Debug\netcoreapp3.0\LoggerService.pdb
+E:\Learning\WebAPIExample\advanced-rest-concepts-aspnetcore-hateoas-end\LoggerService\bin\Debug\netcoreapp3.0\Contracts.dll
+E:\Learning\WebAPIExample\advanced-rest-concepts-aspnetcore-hateoas-end\LoggerService\bin\Debug\netcoreapp3.0\Entities.dll
+E:\Learning\WebAPIExample\advanced-rest-concepts-aspnetcore-hateoas-end\LoggerService\bin\Debug\netcoreapp3.0\Contracts.pdb
+E:\Learning\WebAPIExample\advanced-rest-concepts-aspnetcore-hateoas-end\LoggerService\bin\Debug\netcoreapp3.0\Entities.pdb
+E:\Learning\WebAPIExample\advanced-rest-concepts-aspnetcore-hateoas-end\LoggerService\obj\Debug\netcoreapp3.0\LoggerService.csprojAssemblyReference.cache
+E:\Learning\WebAPIExample\advanced-rest-concepts-aspnetcore-hateoas-end\LoggerService\obj\Debug\netcoreapp3.0\LoggerService.AssemblyInfoInputs.cache
+E:\Learning\WebAPIExample\advanced-rest-concepts-aspnetcore-hateoas-end\LoggerService\obj\Debug\netcoreapp3.0\LoggerService.AssemblyInfo.cs
+E:\Learning\WebAPIExample\advanced-rest-concepts-aspnetcore-hateoas-end\LoggerService\obj\Debug\netcoreapp3.0\LoggerService.csproj.CoreCompileInputs.cache
+E:\Learning\WebAPIExample\advanced-rest-concepts-aspnetcore-hateoas-end\LoggerService\obj\Debug\netcoreapp3.0\LoggerService.csproj.CopyComplete
+E:\Learning\WebAPIExample\advanced-rest-concepts-aspnetcore-hateoas-end\LoggerService\obj\Debug\netcoreapp3.0\LoggerService.dll
+E:\Learning\WebAPIExample\advanced-rest-concepts-aspnetcore-hateoas-end\LoggerService\obj\Debug\netcoreapp3.0\LoggerService.pdb

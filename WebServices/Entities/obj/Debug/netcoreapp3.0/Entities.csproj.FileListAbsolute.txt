@@ -1,0 +1,9 @@
+E:\Learning\WebAPIExample\advanced-rest-concepts-aspnetcore-hateoas-end\Entities\bin\Debug\netcoreapp3.0\Entities.deps.json
+E:\Learning\WebAPIExample\advanced-rest-concepts-aspnetcore-hateoas-end\Entities\bin\Debug\netcoreapp3.0\Entities.dll
+E:\Learning\WebAPIExample\advanced-rest-concepts-aspnetcore-hateoas-end\Entities\bin\Debug\netcoreapp3.0\Entities.pdb
+E:\Learning\WebAPIExample\advanced-rest-concepts-aspnetcore-hateoas-end\Entities\obj\Debug\netcoreapp3.0\Entities.csprojAssemblyReference.cache
+E:\Learning\WebAPIExample\advanced-rest-concepts-aspnetcore-hateoas-end\Entities\obj\Debug\netcoreapp3.0\Entities.AssemblyInfoInputs.cache
+E:\Learning\WebAPIExample\advanced-rest-concepts-aspnetcore-hateoas-end\Entities\obj\Debug\netcoreapp3.0\Entities.AssemblyInfo.cs
+E:\Learning\WebAPIExample\advanced-rest-concepts-aspnetcore-hateoas-end\Entities\obj\Debug\netcoreapp3.0\Entities.csproj.CoreCompileInputs.cache
+E:\Learning\WebAPIExample\advanced-rest-concepts-aspnetcore-hateoas-end\Entities\obj\Debug\netcoreapp3.0\Entities.dll
+E:\Learning\WebAPIExample\advanced-rest-concepts-aspnetcore-hateoas-end\Entities\obj\Debug\netcoreapp3.0\Entities.pdb
